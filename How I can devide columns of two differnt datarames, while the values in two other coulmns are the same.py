@@ -24,3 +24,5 @@ if that's the question the solution is,
 
 Hope this helps if this is not your question please clarify more
 """
+
+# https://stackoverflow.com/questions/69558111/how-i-can-devide-columns-of-two-differnt-datarames-while-the-values-in-two-othe
